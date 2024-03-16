@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "281682667983",
+    "project_id": "simon-education",
+    "storage_bucket": "simon-education.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281682667983:android:fdf2aaf2e5afa606a08aba",
+        "android_client_info": {
+          "package_name": "com.example.shivamBhardwaj.simoneducation6392"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFCo54WMg7V4B89diEx378H2A5SEkI_t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
